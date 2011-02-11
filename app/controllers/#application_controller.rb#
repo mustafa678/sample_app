@@ -1,0 +1,8 @@
+class ApplicationController < ActionController::Base
+  protect_from_forgery
+  def myfun
+    @mylist.each do |item|
+      item.name = "myname"
+    end
+  end
+end

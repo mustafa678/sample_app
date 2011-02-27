@@ -1,1 +1,0 @@
-mustafa@mustafa-desktop.2790:1298728196
